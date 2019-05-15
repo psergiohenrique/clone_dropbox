@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/sergiohenrique/Documents/aprendizado/react_native/week-6/mobile/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /Users/sergiohenrique/Documents/aprendizado/react_native/week-6/mobile/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /Users/sergiohenrique/Documents/aprendizado/react_native/week-6/mobile/node_modules/react-native/third-party/folly-2018.10.22.00/folly/FBString.h \
+  /Users/sergiohenrique/Documents/aprendizado/react_native/week-6/mobile/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/sergiohenrique/Documents/aprendizado/react_native/week-6/mobile/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/sergiohenrique/Documents/aprendizado/react_native/week-6/mobile/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/sergiohenrique/Documents/aprendizado/react_native/week-6/mobile/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/sergiohenrique/Documents/aprendizado/react_native/week-6/mobile/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/sergiohenrique/Documents/aprendizado/react_native/week-6/mobile/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /Users/sergiohenrique/Documents/aprendizado/react_native/week-6/mobile/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/sergiohenrique/Documents/aprendizado/react_native/week-6/mobile/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/sergiohenrique/Documents/aprendizado/react_native/week-6/mobile/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/sergiohenrique/Documents/aprendizado/react_native/week-6/mobile/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/sergiohenrique/Documents/aprendizado/react_native/week-6/mobile/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /Users/sergiohenrique/Documents/aprendizado/react_native/week-6/mobile/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /Users/sergiohenrique/Documents/aprendizado/react_native/week-6/mobile/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/sergiohenrique/Documents/aprendizado/react_native/week-6/mobile/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/sergiohenrique/Documents/aprendizado/react_native/week-6/mobile/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/sergiohenrique/Documents/aprendizado/react_native/week-6/mobile/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/sergiohenrique/Documents/aprendizado/react_native/week-6/mobile/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/sergiohenrique/Documents/aprendizado/react_native/week-6/mobile/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /Users/sergiohenrique/Documents/aprendizado/react_native/week-6/mobile/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /Users/sergiohenrique/Documents/aprendizado/react_native/week-6/mobile/node_modules/react-native/third-party/folly-2018.10.22.00/folly/detail/Demangle.h
